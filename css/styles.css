@@ -693,4 +693,11 @@ footer hr {
     .flexslider7 .slides{
         height: auto;
     }
+    #portfolio .portfolio-thumb .portfolio-overlay{
+        padding-top: 2px;
+    }
+    #portfolio .portfolio-thumb .portfolio-overlay h4,
+    #portfolio .portfolio-thumb .portfolio-overlay h5{
+        font-size: 12px;
+    }
   }
