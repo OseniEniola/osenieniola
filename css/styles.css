@@ -441,7 +441,11 @@ footer hr {
   position: relative;
   box-sizing: border-box;
 }
-
+.modal-content h5{
+    color: #003399;
+    font-weight: bold;
+    text-align: center;
+}
 /* The Close Button */
 .close {
   color: #aaaaaa;
